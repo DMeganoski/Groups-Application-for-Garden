@@ -1,0 +1,17 @@
+body.Groups div.Tabs strong {
+	font-weight: bold;
+	padding: 1px;
+	
+}
+
+
+body.Groups div.GroupTabs li {
+  padding: 2px;
+}
+
+body.Groups div.Options a {
+	padding: 5px;
+	font-weight: bold;
+}
+body.Groups div.Options a.Active {
+}
